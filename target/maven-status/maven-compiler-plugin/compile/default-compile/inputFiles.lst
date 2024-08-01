@@ -1,0 +1,11 @@
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/exceptions/ProductNotFoundException.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/exceptions/InvalidProductQuantityException.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/service/IInventoryService.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/model/Product.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/service/INotificationService.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/constants/CommonConstants.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/service/impl/EmailNotification.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/App.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/service/impl/InventoryService.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/repository/ProductRepository.java
+/Users/utkarsh.dohare/Desktop/inventory-management-system/src/main/java/com/example/inventory/factory/ProductFactory.java
